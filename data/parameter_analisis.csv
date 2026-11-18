@@ -1,0 +1,5 @@
+analisis,parameter
+A,supp=0.01; conf=0.3; lift=1.5; maxlen=2
+B,supp=0.004; conf=0.05; lift=1.25; min_count=40
+C,supp=0.0015; conf=0.08; lift=2
+D,supp=0.004; conf=0.03; lift=1.25

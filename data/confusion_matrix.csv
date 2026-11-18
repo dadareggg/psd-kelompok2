@@ -1,0 +1,54 @@
+Prediksi,Aktual,Jumlah,Analisis
+Belum_Puas,Belum_Puas,0,Kepuasan Konsumen
+Puas,Belum_Puas,51,Kepuasan Konsumen
+Belum_Puas,Puas,0,Kepuasan Konsumen
+Puas,Puas,1772,Kepuasan Konsumen
+1 - 3 Months,1 - 3 Months,60,Durasi Penggunaan
+1 Week - 1 Month,1 - 3 Months,29,Durasi Penggunaan
+3 - 6 Months,1 - 3 Months,3,Durasi Penggunaan
+6 Months - 1 Year,1 - 3 Months,3,Durasi Penggunaan
+Less Than 1 Week,1 - 3 Months,197,Durasi Penggunaan
+More Than 1 Year,1 - 3 Months,58,Durasi Penggunaan
+1 - 3 Months,1 Week - 1 Month,46,Durasi Penggunaan
+1 Week - 1 Month,1 Week - 1 Month,39,Durasi Penggunaan
+3 - 6 Months,1 Week - 1 Month,2,Durasi Penggunaan
+6 Months - 1 Year,1 Week - 1 Month,1,Durasi Penggunaan
+Less Than 1 Week,1 Week - 1 Month,200,Durasi Penggunaan
+More Than 1 Year,1 Week - 1 Month,72,Durasi Penggunaan
+1 - 3 Months,3 - 6 Months,34,Durasi Penggunaan
+1 Week - 1 Month,3 - 6 Months,8,Durasi Penggunaan
+3 - 6 Months,3 - 6 Months,0,Durasi Penggunaan
+6 Months - 1 Year,3 - 6 Months,1,Durasi Penggunaan
+Less Than 1 Week,3 - 6 Months,88,Durasi Penggunaan
+More Than 1 Year,3 - 6 Months,18,Durasi Penggunaan
+1 - 3 Months,6 Months - 1 Year,24,Durasi Penggunaan
+1 Week - 1 Month,6 Months - 1 Year,6,Durasi Penggunaan
+3 - 6 Months,6 Months - 1 Year,0,Durasi Penggunaan
+6 Months - 1 Year,6 Months - 1 Year,0,Durasi Penggunaan
+Less Than 1 Week,6 Months - 1 Year,46,Durasi Penggunaan
+More Than 1 Year,6 Months - 1 Year,21,Durasi Penggunaan
+1 - 3 Months,Less Than 1 Week,36,Durasi Penggunaan
+1 Week - 1 Month,Less Than 1 Week,55,Durasi Penggunaan
+3 - 6 Months,Less Than 1 Week,1,Durasi Penggunaan
+6 Months - 1 Year,Less Than 1 Week,5,Durasi Penggunaan
+Less Than 1 Week,Less Than 1 Week,511,Durasi Penggunaan
+More Than 1 Year,Less Than 1 Week,87,Durasi Penggunaan
+1 - 3 Months,More Than 1 Year,19,Durasi Penggunaan
+1 Week - 1 Month,More Than 1 Year,2,Durasi Penggunaan
+3 - 6 Months,More Than 1 Year,1,Durasi Penggunaan
+6 Months - 1 Year,More Than 1 Year,3,Durasi Penggunaan
+Less Than 1 Week,More Than 1 Year,86,Durasi Penggunaan
+More Than 1 Year,More Than 1 Year,60,Durasi Penggunaan
+No,No,0,Rekomendasi Produk
+Yes,No,62,Rekomendasi Produk
+No,Yes,2,Rekomendasi Produk
+Yes,Yes,1759,Rekomendasi Produk
+Maybe,Maybe,46,Niat Pembelian Ulang
+No,Maybe,11,Niat Pembelian Ulang
+Yes,Maybe,145,Niat Pembelian Ulang
+Maybe,No,10,Niat Pembelian Ulang
+No,No,22,Niat Pembelian Ulang
+Yes,No,37,Niat Pembelian Ulang
+Maybe,Yes,39,Niat Pembelian Ulang
+No,Yes,9,Niat Pembelian Ulang
+Yes,Yes,1504,Niat Pembelian Ulang

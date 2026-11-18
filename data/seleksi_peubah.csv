@@ -1,0 +1,10 @@
+peubah,uji,pvalue,signifikan
+harga minimum,ANOVA,0.6385177707630243,False
+harga maksimum,ANOVA,0.8947098300551383,False
+rating,ANOVA,0.0,True
+sub rating efektivitas,ANOVA,0.0,True
+sub rating kemasan,ANOVA,1.529535078159608e-193,True
+sub rating tekstur,ANOVA,0.0,True
+sub rating kualitas harga,ANOVA,0.0,True
+rekomendasi,Chi-square,0.0,True
+lama penggunaan,Chi-square,1.4039718116259513e-14,True
